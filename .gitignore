@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Node & React
+node_modules/
+frontend/node_modules/
+build/
+frontend/build/
+dist/
+.npm
+*.log
+
+# Office & Presentations
+*.pptx
+*.ppt
+*.docx
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
